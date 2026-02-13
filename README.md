@@ -23,13 +23,13 @@ DVX OS isn't just an operating system; it's a synchronized effort of four specia
 | :--- | :--- | :--- |
 | 🚀 **Pex** | **Optimization** | Hardware-to-Software abstraction for peak ARM64 performance. |
 | 🐍 **Veniom** | **Stealth & Security** | Advanced network anonymity and traffic encryption layers. |
-| 🛡️ **Deramadol** | **The Kernel** | The custom-tuned 'Black Pexl' kernel for low-latency auditing. |
+| 🛡️ **Deramadol** | **The Kernel** | The custom-tuned 'DVX OS' kernel for low-latency auditing. |
 | ⚡ **XooP x5** | **Exploitation** | A proprietary suite for automated vulnerability assessment. |
 
 ---
 
 ## 🛠️ Professional Pentesting Suite
-**Black Pexl OS** turns any device into a mobile hacking station. It comes pre-loaded with high-end tools for professional-grade security audits:
+**DVX OS** turns any device into a mobile hacking station. It comes pre-loaded with high-end tools for professional-grade security audits:
 
 * **Network Intelligence:** Advanced WiFi auditing, packet injection, and RF analysis.
 * **Web-Apps Auditing:** Pro-tools for SQLi, XSS, and modern API vulnerability testing.
