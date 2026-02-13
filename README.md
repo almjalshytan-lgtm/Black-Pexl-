@@ -49,7 +49,7 @@ Black Pexl OS isn't just an operating system; it's a synchronized effort of four
 The evolution of Black Pexl OS is happening now. Join our community for updates, tools, and technical support.
 
 * **Official Telegram (Download):** [Black Pexl OS Channel](https://t.me/Pexaldos)
-* **Developer:** [DERAMADOL](https://github.com/almjalshytan) 🇸🇩
+* **Developer:** [Facebook](https://www.facebook.com/profile.php?id=61581301966389) 🇸🇩
 * **Global Community:** Connect with researchers worldwide using the **Pex-Veniom-XooP** framework.
 
 ---
