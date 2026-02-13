@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20PC-black)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
-<h1 align="center">🌑 Black Pexl OS 🌑</h1>
+<h1 align="center">🌑 DVX OS 🌑</h1>
 <p align="center">
   <b>The Ultimate Debian-Based Pentesting Ecosystem for Mobile & Desktop.</b><br>
   <i>"Forged for Security Researchers, Engineered for Stealth."</i>
@@ -17,7 +17,7 @@
 ---
 
 ## 🏛️ Project Architecture: The Elite Core
-Black Pexl OS isn't just an operating system; it's a synchronized effort of four specialized frameworks designed to dominate the cybersecurity landscape:
+DVX OS isn't just an operating system; it's a synchronized effort of four specialized frameworks designed to dominate the cybersecurity landscape:
 
 | Framework | Lead Concept | Function |
 | :--- | :--- | :--- |
@@ -46,9 +46,9 @@ Black Pexl OS isn't just an operating system; it's a synchronized effort of four
 ---
 
 ## 📥 Download & Community
-The evolution of Black Pexl OS is happening now. Join our community for updates, tools, and technical support.
+The evolution of DVX OS is happening now. Join our community for updates, tools, and technical support.
 
-* **Official Telegram (Download):** [Black Pexl OS Channel](https://t.me/Pexaldos)
+* **Official Telegram (Download):** [ DVX OS Channel](https://t.me/Pexaldos)
 * **Developer:** [Facebook](https://www.facebook.com/profile.php?id=61581301966389) 🇸🇩
 * **Global Community:** Connect with researchers worldwide using the **Pex-Veniom-XooP** framework.
 
@@ -58,5 +58,5 @@ The evolution of Black Pexl OS is happening now. Join our community for updates,
 *Black Pexl OS is developed for educational purposes and authorized security auditing only. The developers are not responsible for any misuse or illegal activities conducted with this system.*
 
 <p align="center">
-  <b>#BlackPexl #CyberSecurity #PentestOS #Debian #MobileHacking #DERAMADOL #Pex #Veniom #XooPx5</b>
+  <b>#DVX OS #CyberSecurity #PentestOS #Debian #MobileHacking #DERAMADOL #Pex #Veniom #XooPx5</b>
 </p>
