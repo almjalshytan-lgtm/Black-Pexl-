@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="رابط_شعار_BP_الجديد.png" width="150">
+  <img src="1770944092521.jpg" width="150">
 </p>
 
 # 🌑 Black Pexl OS 
