@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/1770944092521.jpg" width="250" alt="Black Pexl OS Logo">
-</p>
+![Version](https://img.shields.io/badge/Version-1.0.0--Stable-red)
+![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20PC-black)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 <h1 align="center">🌑 Black Pexl OS 🌑</h1>
 <p align="center">
